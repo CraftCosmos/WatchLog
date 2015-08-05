@@ -1,0 +1,16 @@
+{
+  "name": "CraftCosmos.WatchLog",
+  "version": "0.0.0",
+  "description": "CraftCosmos.WatchLog",
+  "main": "app.js",
+  "author": {
+    "name": "John Palmer",
+    "email": "john@johndpalm.com"
+  },
+  "dependencies": {
+    "azure-storage": "^0.4.5",
+    "node-uuid": "^1.4.3",
+    "rcon": "^1.0.1",
+    "tail": "^0.4.0"
+  }
+}
